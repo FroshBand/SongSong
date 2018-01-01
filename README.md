@@ -1,11 +1,11 @@
 # SongSong
-Frosh Band's First Song
+Frosh Band's First Song|
 Written in Fall of 2017
 
 ## Lyrics
 ### Verse 1:
-Bigger than a mountain troll 
-As bad as they can get
+Bigger than a mountain troll\
+As bad as they can get/
 And maybe I can't fly today
 Cause that ain't happened yet
 
