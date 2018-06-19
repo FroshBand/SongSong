@@ -26,7 +26,7 @@ Putting straight an orc or two\
 Earning all my stripes and glory\
 Collecting on my debts
 
-Here my name is hellhounds' bane
+Here my name is hellhounds' bane\
 My legacy goes on and on\
 Maybe I'll go home one day\
 But I'm not done here yet
@@ -51,7 +51,7 @@ Is it you or me tonight?
 ### Chorus:
 Searching for adventure here\
 Putting straight an orc or two\
-Earning all my stripes and glory
+Earning all my stripes and glory\
 Collecting on my debts 
 
 Here my name is hellhounds bane\
